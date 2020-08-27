@@ -2,7 +2,7 @@
     - A Software Engineer at I-TECH with experience in java and python and a 
       member of Andela Learning Community (ALC)learning and helping grow new talents.
 ### 🎯 2020 goals
-      - My 2020 goal is to team up with Antony Ojwang and Makombe from Palledium to contribute to HIS project.
+      - To contribute to HIS project.
 
 ### 🔭 I’m currently working on 
       - I am currently working on eHealth system, which is a BuildForGCD challage by Andela and facebook, 

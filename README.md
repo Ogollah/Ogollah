@@ -19,4 +19,4 @@
 * Linkedin: [Linkedin link](https://www.linkedin.com/in/stephen-ogolla-78471790)
 
  ### ⚡ Fun fact: 
- I am a tattoo and piercing fanatic who has no tattoos
+

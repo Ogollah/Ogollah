@@ -18,5 +18,3 @@
 ### 📫 How to reach me:
 * Linkedin: [Linkedin link](https://www.linkedin.com/in/stephen-ogolla-78471790)
 
- ### ⚡ Fun fact: 
-

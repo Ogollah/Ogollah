@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I am Stephen Ogolla 👋
+    - Stephen Ogolla is a Software Engineer at I-TECH with experience in java and python. 
+      He is also a member of Andela Learning Community (ALC)learning and helping grow new talents.
+### 🎯 2020 goals
+      - Stephen's goal is to team up with Antony Ojwang and Makombe from Palledium to work on a HIS project.
 
-<!--
-**Ogollah/Ogollah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on 
+      - I am currently working on eHealth system, which is a BuildForGCD challage by Andela and facebook, 
+        This is in collaboration with a team of 4.
+        This project "PrescribeMe" is meant to connect client/patient to the doctor for diagnosis 
+        and prescription and or referral/book appointment booking the system is also meant to 
+        connect to online drug stores where patients can order for their prescribed drugs/medication.
 
-Here are some ideas to get you started:
+ ### 🌱 I’m currently learning 
+ #### ReactJs
+    - To be able to develop creative user Interface using javascript. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+* Linkedin: [Linkedin link](https://www.linkedin.com/in/stephen-ogolla-78471790)
+
+ ### ⚡ Fun fact: 
+ I am a tattoo and piercing fanatic who has no tattoos

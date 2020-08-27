@@ -1,6 +1,5 @@
 ### Hi, I am Stephen Ogolla 👋
-    - A Software Engineer at I-TECH with experience in java and python and a 
-      member of Andela Learning Community (ALC)learning and helping grow new talents.
+    - A Software Engineer at I-TECH and a member of Andela Learning Community (ALC)learning and helping grow new talents.
 ### 🎯 2020 goals
       - To contribute to HIS project.
 

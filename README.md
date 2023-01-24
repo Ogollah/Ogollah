@@ -6,7 +6,8 @@
 ### 🔭 I’m currently working on 
       - I am currently working on eHealth system, which is an Immunization Registry web based. 
       The system should be able to Track child and report Child's immunization for up to 10 years where applicable. 
-      The system should also be able to take stock record for the antigens and with the help of CHVs able to track defaulter children and ensure every           child is immunized.
+      The system should also be able to take stock record for the antigens and with the help of CHVs able to 
+      track defaulter children and ensure every child is immunized.
 
  ### 🌱 I’m currently learning 
  #### Angular

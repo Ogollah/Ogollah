@@ -4,15 +4,11 @@
       - To contribute to HIS project.
 
 ### 🔭 I’m currently working on 
-      - I am currently working on eHealth system, which is a BuildForGCD challage by Andela and facebook, 
-        This is in collaboration with a team of 4.
-        This project "PrescribeMe" is meant to connect client/patient to the doctor for diagnosis 
-        and prescription and or referral/book appointment booking the system is also meant to 
-        connect to online drug stores where patients can order for their prescribed drugs/medication.
+      - I am currently working on eHealth system, which is an Immunization Registry web based. The system should be able to Track child and report Child's          immunization for up to 10 years where applicable. The system should also be able to take stock record for the antigens and with the help of CHVs            able to track defaulter children and ensure every child is immunized.
 
  ### 🌱 I’m currently learning 
- #### ReactJs
-    - To be able to develop creative user Interface using javascript. 
+ #### Angular
+    - To be able do beatifull engineering as a full stack engeener. 
 
 ### 📫 How to reach me:
 * Linkedin: [Linkedin link](https://www.linkedin.com/in/stephen-ogolla-78471790)

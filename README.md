@@ -1,5 +1,5 @@
 ### Hi, I am Stephen Ogolla 👋
-    - A Software Engineer at I-TECH and a member of Andela Learning Community (ALC)learning and helping grow new talents.
+    - A Software Engineer at HETARK and a member of Andela Learning Community (ALC)learning and helping grow new talents.
 ### 🎯 2021 goals
       - To contribute to HIS project.
 

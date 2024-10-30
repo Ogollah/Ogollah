@@ -4,14 +4,11 @@
       - To contribute to HIS project.
 
 ### 🔭 I’m currently working on 
-      - I am currently working on eHealth system, which is an Immunization Registry web based. 
-      The system should be able to Track child and report Child's immunization for up to 10 years where applicable. 
-      The system should also be able to take stock record for the antigens and with the help of CHVs able to 
-      track defaulter children and ensure every child is immunized.
+      - I am currently working on the mHealth application, a patient-facing mobile app designed to help users monitor and manage their health. It provides guidance on specific vitals and aims to keep patients informed about their health outcomes. The app is particularly focused on empowering  patients by providing them with data and insights about their health.
 
  ### 🌱 I’m currently learning 
  #### Angular
-    - To be able do beatifull engineering as a full stack engeener. 
+    - To be able to do beautiful engineering as a full stack engineer. 
 
 ### 📫 How to reach me:
 * Linkedin: [Linkedin link](https://www.linkedin.com/in/stephen-ogolla-78471790)
